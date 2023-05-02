@@ -1,0 +1,49 @@
+{
+  "kost": [
+    {
+      "id": "1",
+      "name": "Kost Apik UBAYA Si Mbok",
+      "description": "Kost Putra. Kost terdiri dari 2 lantai. Tipe kamar A berada di lantai 2 dengan jendela menghadap ke arah luar. Terdapat layanan pembersihan AC secara rutin tiap 3 bulan sekali.",
+      "address": "Kecamatan Rungkut",
+      "rate": "4.6",
+      "price": "1.488.000",
+      "photoUrl": "https://i.ytimg.com/vi/9_3N4yqPG4o/maxresdefault.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Kost Andalan",
+      "description": "Kost Bebas Campur bisa untuk putra, putri, dan pasutri. Tidak ada jam malam! Ada dapur.",
+      "address": "Jl Rungkut Surabaya",
+      "rate": "4.3",
+      "price": "1.700.000",
+      "photoUrl": "https://imgid.waa2.com/home/210123/kost-ardian-tipe-a-rungkut-surabaya-ba3ecea73aa553b68784be90a0c200e4_thumb.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Kost Ibu Eti 3",
+      "description": "Kost Putri. Ada jam malam, pria dilarang masuk.",
+      "address": "Jl Rungkut Surabaya",
+      "rate": "4.5",
+      "price": "1.200.000",
+      "photoUrl": "https://idkos.com/images/gallery_property/km-dalam-Yw4MYYf66E.jpeg"
+    },
+    {
+      "id": "4",
+      "name": "Kost Rms R9",
+      "description": "Kost Putra. Dekat Ubaya Tenggilis dan kawasan industri Rungkut dan sier.",
+      "address": "Jl Rungkut Surabaya",
+      "rate": "5.0",
+      "price": "952.500",
+      "photoUrl": "https://i.ytimg.com/vi/VXmZTA1AElw/maxresdefault.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Kost Putri Sari Ayu",
+      "description": "Kost Putri.Harga include listrik, cuci pakaian, nasi putih. Jam bertamu maksimal 22.00 WIB",
+      "address": "Jl Rungkut Surabaya",
+      "rate": "4.9",
+      "price": "650.000",
+      "photoUrl": "https://idkos.com/images/property/a-UVxk0G1kWF.jpeg"
+    }
+  ]
+}

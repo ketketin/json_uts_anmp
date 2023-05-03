@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "Cindy",
+      "registrationDate": "12/04/2019",
+      "phone": "08263781930",
+      "photoUrl": "https://img.freepik.com/free-photo/shopping-concept-portrait-attractive-korean-girl-yellow-sweater-showing-promotion-offer-copy-space-pointing-looking-left-with-pleased-smile-blue-background_1258-76029.jpg?w=900&t=st=1683086098~exp=1683086698~hmac=7092af73a4863dfe1d63e13edef2e78a862c061eddb0efe04ce66d0fa2aa2527"
+    },
+    {
+      "id": "2",
+      "username": "Brahm",
+      "registrationDate": "1/07/2019",
+      "phone": "0818394922",
+      "photoUrl": "https://img.freepik.com/free-photo/young-asian-chinese-man-with-hands-chin-standing-isolated-white-wall_231208-1557.jpg?w=900&t=st=1683086219~exp=1683086819~hmac=0be9e9759731db3f55cdfca3ac93f3e3e8135fba5babb44d07561b40994302f5"
+    },
+    {
+      "id": "3",
+      "username": "Hannah",
+      "registrationDate": "21/01/2020",
+      "phone": "08647282991",
+      "photoUrl": "https://img.freepik.com/free-photo/korean-young-woman-s-half-length-portrait-blue-studio_155003-28349.jpg?w=900&t=st=1683086452~exp=1683087052~hmac=29780eb42c9c87427bd6465d7b3836fcf8e1aa61f8b5529412a688f5963c8f86"
+    },
+    {
+      "id": "4",
+      "username": "John",
+      "registrationDate": "25/10/2020",
+      "phone": "08782010389",
+      "photoUrl": "https://img.freepik.com/free-photo/front-view-cute-man-posing-with-his-hands-his-chin_23-2148946266.jpg?w=900&t=st=1683086534~exp=1683087134~hmac=83c3d231d60ef8264507a0034b9286c0b51a23e04cdc268e71aa447f9e8bd92a"
+    }
+  ]
+}

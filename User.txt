@@ -1,0 +1,4 @@
+Parse error on line 2:
+...password":"cindyyy" "registrationDate":"
+-----------------------^
+Expecting 'EOF', '}', ':', ',', ']', got 'STRING'

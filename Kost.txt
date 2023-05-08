@@ -1,6 +1,4 @@
-{
-  "kost": [
-    {
+[{
       "id": "1",
       "name": "Kost Apik UBAYA Si Mbok",
       "description": "Kost Putra. Kost terdiri dari 2 lantai. Tipe kamar A berada di lantai 2 dengan jendela menghadap ke arah luar. Terdapat layanan pembersihan AC secara rutin tiap 3 bulan sekali.",
@@ -86,4 +84,3 @@
       "photo3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4fbEqyVXZLKeQRsKRI2jcENVZ7UU9Meuu-FsgVYuRfsBUWHP9xgJolpdOLUyTN73MN54&usqp=CAU"
     }
   ]
-}
